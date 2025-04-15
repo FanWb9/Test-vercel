@@ -3,7 +3,7 @@ import Login from "./Pages/Login";
 import Home from "./Pages/Home";
 import Register from "./Pages/Regis";
 import NavbarLayout from "./Layouts/NavbarLayout";
-import LaporanKeuangan from "./pages/LaporanKeuangan";
+import LaporanKeuangan from "./Pages/LaporanKeuangan";
 
 export default function App() {
   return (
